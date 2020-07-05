@@ -1,0 +1,27 @@
+body{
+	background-color: brown;
+}
+#container{
+	background-color: pink;
+}
+
+#header{
+	background-color: brown;
+	color: white;
+	text-align: center;
+}
+#content{
+	padding-left: 10px;
+}
+#nav{
+	width: 180px;
+	float: left;
+
+}
+#main{
+	width:1200px;
+	float: left;
+}
+#footer{
+	clear:both;
+}
